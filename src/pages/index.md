@@ -1,30 +1,24 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: I hopped off the plane at LAX
+image: /img/1000x650-kentucky-menu-tab4-img1-3x.jpg
+heading: This is all so crazy
+subheading: With my dream and my cardigan
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Welcome to the land of fame excess
+  description: >-
+    Am I gonna fit in? Jumped in the cab, here I am for the first time. Look at
+    my right and I see the Hollywood sign
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Everybody seems so famous! My tummy's turning and I'm feeling kinda home sick.
+  Too much pressure and I'm nervous. That's when the taxi man turned on the
+  radio and a Jay-Z song was on.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+    - image: /img/img2.jpg
+      text: >-
+        And a Jay-Z song was on! So I put my hands up, they're paying my song.
+        They know I'm gonna be ok. Yeah, it's a party in the USA.
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -68,3 +62,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
